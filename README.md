@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 this is just an intro, more changes.
 ##Introduction
 this is just an introduction
+
+all rights reserved...
